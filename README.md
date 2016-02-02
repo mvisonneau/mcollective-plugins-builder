@@ -37,4 +37,4 @@ docker run -it --rm -v ~/:/dist --env VERSION=1.0 mvisonneau/mcollective-plugins
 
 ## Limitation
 
-- It's only compile for x64, but it shouldn't be too hard to make it work for x86 if needed
+- It only compiles for x64, but it shouldn't be too hard to make it work for x86 if needed
